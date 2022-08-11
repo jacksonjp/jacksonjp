@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jackson Achankunju</h1>
-<h3 align="center">Head of Frontend(Web), EMEA at Monstar-lab Global</h3>
+<h3 align="center">Senior Frontend developer at DSV A/S</h3>
 
 <p align="left"> <a href="https://twitter.com/jackstist" target="blank"><img src="https://img.shields.io/twitter/follow/jackstist?logo=twitter&style=for-the-badge" alt="jackstist" /></a> </p>
 
@@ -19,3 +19,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jacksonjp&show_icons=true&locale=en" alt="jacksonjp" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jacksonjp&" alt="jacksonjp" /></p>
+
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/jacksonjp/jacksonjp/blob/master/devcard.svg" width="400" alt="Jackson Achankunju Dev Card"/></a>
+
